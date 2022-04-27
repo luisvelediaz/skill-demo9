@@ -6,6 +6,6 @@ public class skillDemoTest {
 // J unit Test 
     @Test
       public void subtraction() {
-        assertEquals(2, skillDemo.subtract(2 , 1)); //Test fails Opearation  
+        assertEquals(1, skillDemo.subtract(2 , 1)); //Test fails Opearation  
        }
 }
